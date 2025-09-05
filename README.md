@@ -1,7 +1,8 @@
-## Hi there 👋
+## Welcome to Reciprocal Space
 
 <!--
-**noelbolando/noelbolando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**![giphy](https://github.com/user-attachments/assets/241f5fe0-fb2c-4783-a950-9bc79e8c6931)
+noelbolando/noelbolando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
