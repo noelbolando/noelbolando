@@ -1,3 +1,4 @@
 ## Welcome to Reciprocal Space
 
-https://github.com/user-attachments/assets/ce8be984-7796-4636-8bbb-ea326c6a0625
+![cryst-zincblende](https://github.com/user-attachments/assets/9996c13e-dc97-4ca0-b583-ca955568896b)
+![cryst-nacle](https://github.com/user-attachments/assets/6475d4c0-6250-4447-999e-77deb23ce4e4)
