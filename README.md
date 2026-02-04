@@ -1,12 +1,13 @@
-## Welcome to My GitHub
-
-I am currently updating this space with new documentation. Check back soon for updates.
+## Welcome to My GitHub!
 
 ![cryst-zincblende](https://github.com/user-attachments/assets/9996c13e-dc97-4ca0-b583-ca955568896b)
 ![cryst-nacle](https://github.com/user-attachments/assets/6475d4c0-6250-4447-999e-77deb23ce4e4)
 
-### My Library:
-[Hybrid LLM/ABM Model](https://github.com/noelbolando/SBP-BRiMS-Challenge)
+### Check out some of my Current Projects:
+- [Aggregate Teleconnections](https://github.com/noelbolando/aggregate-um-state-level)
+- [Agentic AI in Infectious Disease Models](https://github.com/noelbolando/SBP-BRiMS-Challenge)
+
+### And some of my older stuff:
 
 [Agent-Based Model Library](https://github.com/stars/noelbolando/lists/agent-based-models)
 - [SIR](https://github.com/noelbolando/sir-infection)
@@ -18,3 +19,5 @@ I am currently updating this space with new documentation. Check back soon for u
 
 [Machine Learning Library](https://github.com/stars/noelbolando/lists/machine-learning)
 - [Convolutional Neural Networks](https://github.com/noelbolando/cnn-crack-id)
+
+Questions? Wanna collab? [Let's Connect on LinkedIn](https://www.linkedin.com/in/noel-boland/)
