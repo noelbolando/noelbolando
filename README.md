@@ -3,11 +3,13 @@
 ![cryst-zincblende](https://github.com/user-attachments/assets/9996c13e-dc97-4ca0-b583-ca955568896b)
 ![cryst-nacle](https://github.com/user-attachments/assets/6475d4c0-6250-4447-999e-77deb23ce4e4)
 
-### Check out some of my Current Projects:
+### Check out some of my current projects:
 - [Aggregate Teleconnections](https://github.com/noelbolando/aggregate-um-state-level)
 - [Agentic AI in Infectious Disease Models](https://github.com/noelbolando/SBP-BRiMS-Challenge)
 
 ### And some of my older stuff:
+
+[Agentic AI System for Infectious Disease Models](https://github.com/noelbolando/agentic-ai-sir-system)
 
 [Agent-Based Model Library](https://github.com/stars/noelbolando/lists/agent-based-models)
 - [SIR](https://github.com/noelbolando/sir-infection)
