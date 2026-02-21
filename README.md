@@ -9,6 +9,8 @@
 
 ### And some of my older stuff:
 
+[Curio: Born from the 2026 UM AI Hackathon](https://github.com/noelbolando/um-ai-hackathon-2026)
+
 [Agentic AI System for Infectious Disease Models](https://github.com/noelbolando/agentic-ai-sir-system)
 
 [Agent-Based Model Library](https://github.com/stars/noelbolando/lists/agent-based-models)
