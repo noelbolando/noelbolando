@@ -143,31 +143,6 @@ specializations = {
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    STATS_MONITOR.EXE                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=noelbolando&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=BF00FF&text_color=00FF41&ring_color=BF00FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelbolando&layout=compact&hide_border=true&bg_color=000000&title_color=BF00FF&text_color=00FF41" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=noelbolando&theme=dark&hide_border=true&background=000000&ring=BF00FF&fire=00FF41&currStreakLabel=00FF41&sideLabels=BF00FF&dates=00FF41&currStreakNum=BF00FF&sideNums=00FF41)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
 ║                    ACTIVITY_LOG.SYS                          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
