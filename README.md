@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation alternating green/purple feel -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=BF00FF&background=000000&center=true&vCenter=true&width=640&lines=%3E+welcome...;%3E+initializing+noel.exe...;%3E+loading...;%3E+creation>>consumption;%3E+system+ready.+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=BF00FF&background=000000&center=true&vCenter=true&width=640&lines=%3E+welcome...;%3E+initializing+noel.exe...;%3E+loading...;%3E+creation>>consumption;%3E+system+ready;%3E+green+means+go+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
 
