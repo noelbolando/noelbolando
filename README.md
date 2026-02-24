@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Retro terminal header - green to purple gradient -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0&height=180&text=>>{ ._. }<<&fontSize=72&fontColor=00FF41&animation=blinking&fontAlignY=55&desc=WELCOME_TO_RECIPROCAL_SPACE&descSize=14&descAlignY=80&descColor=BF00FF" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0&height=180&text=>>{._.}<<&fontSize=72&fontColor=00FF41&animation=blinking&fontAlignY=55&desc=WELCOME_TO_RECIPROCAL_SPACE&descSize=14&descAlignY=80&descColor=BF00FF" />
 
 <!-- Typing animation alternating green/purple feel -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=BF00FF&background=000000&center=true&vCenter=true&width=640&lines=%3E+initializing+noel.exe...;%3E+loading...;%3E+creation>consumption;%3E+system+ready.+%F0%9F%9F%A2)](https://git.io/typing-svg)
