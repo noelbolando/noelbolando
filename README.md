@@ -10,7 +10,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                     WHO_AM_I.CONFIG                          ║
+║                     ME.CONFIG                                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -24,7 +24,6 @@ $ cat noel.config
   "journey"     :  ["engineer", "software dev", "grad student"],
   "mission"     :  "expanding quantitative methods in social sciences",
   "passions"    :  ["pretty code", "multimodal data", "art"],
-  "mode"        :  "self-taught --> continuous learning",
   "status"      :  "► BUILDING  ░░░░░░░░░░ [ACTIVE]",
   "open_source" :  "build in public, share everything"
 }
@@ -36,19 +35,18 @@ $ cat noel.config
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                      FUN_FACTS.TXT ⚡                        ║
+║                      FUN_FACTS.TXT ⚡                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ```
-[★] Engineer → dev → grad student. Still learning every day
-[★] I <3 multimodal data 🌐 — the messier, the better
+[★] Engineer → dev → grad student. Learning something new every day
+[★] I <3 multimodal data. The messier the data, the better the story
 [★] Models should be beautiful, not just functional
-[★] Bringing quant methods where they haven't gone before
-[★] #opensource girly pop. I build in public and share everything
-[★] The best features ship at 2am
+[★] Bringing quant methods to places and spaces where they haven't gone before
+[★] #OpenSource 
 ```
 
 ---
@@ -148,7 +146,7 @@ RAG + agentic AI paired with open-source Groq inference.
 
 **[SBP-BRiMS CHALLENGE](https://github.com/noelbolando/SBP-BRiMS-Challenge)**
 
-LLMs (Ollama) as decision-makers embedded inside an agent-based model — where AI meets social simulation.
+LLMs (Ollama) as decision-makers embedded inside an agent-based model; where AI meets social simulation.
 
 ![Ollama](https://img.shields.io/badge/Ollama-00FFEE?style=flat-square&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-00FFB2?style=flat-square&logoColor=black)
@@ -177,7 +175,7 @@ CNN for image identification and feature characterization of structural cracks.
 
 **[SVR MODELS](https://github.com/noelbolando/archived-support-verctor-regression-models)**
 
-Support vector regression benchmarked against linear regression — a deep dive into model comparison.
+Support vector regression benchmarked against linear regression: a deep dive into model comparison.
 
 ![SVR](https://img.shields.io/badge/SVR-00FFEE?style=flat-square&logoColor=black)
 ![Regression](https://img.shields.io/badge/Regression-C87FFF?style=flat-square&logoColor=white)
@@ -191,7 +189,7 @@ Support vector regression benchmarked against linear regression — a deep dive 
 
 **[★ AGENT-BASED MODELS LIBRARY](https://github.com/stars/noelbolando/lists/agent-based-models)**
 
-A curated collection of agent-based modeling projects — simulations where individual agents interact to produce emergent system-level behavior. Built to push quantitative methods into social science applications.
+A curated collection of agent-based modeling projects; simulations where individual agents interact to produce emergent system-level behavior. Built to push quantitative methods into social science applications.
 
 ![ABM](https://img.shields.io/badge/ABM-00FFB2?style=flat-square&logoColor=black)
 ![Simulation](https://img.shields.io/badge/Simulation-C87FFF?style=flat-square&logoColor=white)
@@ -215,10 +213,10 @@ A curated collection of agent-based modeling projects — simulations where indi
   Every function is a decision. Every system is a perspective.
 
 > "Modeling is a way of making sense of the world."
-  A model isn't just math — it's a hypothesis about reality.
+  A model isn't just math; it's a hypothesis about reality.
 
 > "Beautiful software is storytelling."
-  UX is plot. Architecture is structure. Elegance is voice.
+  UX is where we make meaning. Architecture gives us structure. Data tells our story.
 ```
 
 ---
@@ -253,8 +251,8 @@ A curated collection of agent-based modeling projects — simulations where indi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FFB2?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/noelbolando)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF2D9B?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/noelbolando)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FFB2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/noel-boland/)
+[![Professional Portfolio](https://img.shields.io/badge/PORTFOLIO-FF2D9B?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/umich.edu/noel-boland/welcome)
 
 ```
 > thanks for visiting. now go build something. ▓▓▓▓▓▓▓▓▓▓ [100%]
